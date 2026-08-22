@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Processed data 
+data/processed/
+
+# Generated PDF reports
+reports/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
