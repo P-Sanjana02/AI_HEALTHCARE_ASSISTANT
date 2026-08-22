@@ -1,0 +1,68 @@
+synonym,dataset_symptom
+,
+fever,high_fever
+high fever,high_fever
+temperature,high_fever
+high temperature,high_fever
+feverish,high_fever
+body pain,muscle_pain
+body ache,muscle_pain
+muscle pain,muscle_pain
+head pain,headache
+head ache,headache
+headache,headache
+stomach pain,stomach_pain
+abdominal pain,abdominal_pain
+tummy pain,stomach_pain
+chest pain,chest_pain
+joint pain,joint_pain
+pain behind eyes,pain_behind_the_eyes
+pain behind my eyes,pain_behind_the_eyes
+eye pain,pain_behind_the_eyes
+cold,continuous_sneezing
+common cold,continuous_sneezing
+continuous sneezing,continuous_sneezing
+runny nose,runny_nose
+cough,cough
+dry cough,cough
+gastric,acidity
+gas problem,acidity
+acidity,acidity
+vomit,vomiting
+vomiting,vomiting
+nausea,nausea
+diarrhoea,diarrhoea
+constipation,constipation
+breathing problem,breathlessness
+breathing problems,breathlessness
+difficulty breathing,breathlessness
+breathing difficulty,breathlessness
+shortness of breath,breathlessness
+breathlessness,breathlessness
+tired,fatigue
+fatigue,fatigue
+weakness,fatigue
+dizziness,dizziness
+itching,itching
+skin rash,skin_rash
+sweating,sweating
+chills,chills
+shivering,shivering
+yellowish skin,yellowish_skin
+heartburn,Heartburn
+frequent urination,Urinating_a_lot
+urinating a lot,Urinating_a_lot
+coughing,cough
+persistent cough,cough
+severe cough,cough
+mild fever,mild_fever
+low fever,mild_fever
+high fever,high_fever
+temperature,high_fever
+breathing issue,breathlessness
+breathing issues,breathlessness
+cannot breathe,breathlessness
+can't breathe,breathlessness
+stomach ache,stomach_pain
+tummy ache,stomach_pain
+belly pain,belly_pain
