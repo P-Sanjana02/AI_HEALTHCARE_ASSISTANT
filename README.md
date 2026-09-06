@@ -33,3 +33,5 @@ The application also estimates disease severity, provides medical precautions, e
 
 ![image alt](https://github.com/P-Sanjana02/AI_HEALTHCARE_ASSISTANT/blob/5a7692d015940c9ce3483f89a57f14268644eab4/Screenshot%202026-09-06%20152426.png)
 
+<img width="1812" height="736" alt="Screenshot 2026-09-06 162351" src="https://github.com/user-attachments/assets/4222f0c0-0aad-47ff-9247-a910b7e2158e" />
+
