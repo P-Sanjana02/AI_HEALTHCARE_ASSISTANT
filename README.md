@@ -31,7 +31,7 @@ The application also estimates disease severity, provides medical precautions, e
 - FPDF
 
 
-![image alt](https://github.com/P-Sanjana02/AI_HEALTHCARE_ASSISTANT/blob/5a7692d015940c9ce3483f89a57f14268644eab4/Screenshot%202026-09-06%20152426.png)
+<img width="1831" height="833" alt="Screenshot 2026-09-06 163242" src="https://github.com/user-attachments/assets/99f6d4c0-7bcb-4fb7-aa80-4114c246b254" />
 
 <img width="1812" height="736" alt="Screenshot 2026-09-06 162351" src="https://github.com/user-attachments/assets/4222f0c0-0aad-47ff-9247-a910b7e2158e" />
 
