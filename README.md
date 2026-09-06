@@ -40,3 +40,5 @@ The application also estimates disease severity, provides medical precautions, e
 <img width="1850" height="827" alt="Screenshot 2026-09-06 152613" src="https://github.com/user-attachments/assets/5aad2bfa-2639-4623-b1e9-769055e1b424" />
 
 <img width="587" height="817" alt="Screenshot 2026-09-06 155205" src="https://github.com/user-attachments/assets/c79ec765-8397-43e2-bed1-af58c8d2a30a" />
+
+<img width="573" height="422" alt="Screenshot 2026-09-06 155234" src="https://github.com/user-attachments/assets/35655bbd-448f-4d53-a43c-6048fa64a0a9" />
