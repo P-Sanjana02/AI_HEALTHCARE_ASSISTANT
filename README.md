@@ -29,3 +29,5 @@ The application also estimates disease severity, provides medical precautions, e
 - NumPy
 - Joblib
 - FPDF
+
+
